@@ -22,3 +22,5 @@ I also computed net revenue from total sales and the payment fee costs given.
 The directors were able to see the performance of the wholesale warehouses at a glance.
 
 Below are some of the screenshots from the final data.
+
+https://github.com/NjorogeMuthondu/spare-parts-analysis/blob/main/sql%20visuals%202.png
