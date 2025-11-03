@@ -24,3 +24,6 @@ The directors were able to see the performance of the wholesale warehouses at a 
 Below are some of the screenshots from the final data.
 
 https://github.com/NjorogeMuthondu/spare-parts-analysis/blob/main/sql%20visuals%202.png
+
+https://github.com/NjorogeMuthondu/spare-parts-analysis/blob/main/sql%20visuals.png
+
