@@ -7,8 +7,9 @@ The board of directors wants to gain a better understanding of wholesale revenue
 https://github.com/NjorogeMuthondu/spare-parts-analysis/blob/main/motocycle_spareparts.csv
 
 # TECHNOLOGIES USED
-SQL
-
+### SQL
+### Git
+### Excel
 # PROJECT WALKTHROUGH
 I run some queries inorder to clean data and to format it the way the directors wanted.
 
